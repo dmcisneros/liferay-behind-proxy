@@ -12,7 +12,7 @@ This detailed guide explains:
 
 I wrote a detailed article explaining the configuration scenarios, why they matter, and included a complete, working **Docker Compose example** .
 
-🔗 **Get the Full Guide & Run the Demo:**
+📄 ** Read the full article:**
 [ https://github.com/dmcisneros/liferay-behind-proxy](https://liferay.dev/b/comprehensive-guide-to-configuring-liferay-behind-a-reverse-proxy-nginx-apache-)
 
 If you're working with production deployments, security, or DXP clustering, this resource will save you hours of testing and troubleshooting 😉
